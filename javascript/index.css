@@ -9,6 +9,6 @@ p, h1, button{
     text-align: center;
 }
 
-button{
-    margin: center;   
+.wrapper, .wrapper1{
+    text-align: center;
 }
