@@ -2,17 +2,13 @@
 body{
     margin: 0;
 }
-.hexbild{
-    position: absolute;
-    left: 10px;
-    top: 300px;
-}
+
 
 #ntilogo{
    position: absolute;
    right: 50px;
 }
-.header{
+header{
     background-color: rgba(37, 57, 102, 0.733);
     text-align: center;
     padding: 5px;
@@ -64,7 +60,13 @@ p {
 }
 .column.side{
     width: 25%;
+
 }
+
+#hexbild{
+    width: 350px;
+}
+
 .column.middle{
     width: 50%;
 }
